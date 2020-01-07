@@ -1,4 +1,3 @@
-
 name: Build and deploy on Azure Spring Cloud
 
 on: [push]
